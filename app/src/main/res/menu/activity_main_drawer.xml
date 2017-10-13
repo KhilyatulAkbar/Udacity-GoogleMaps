@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_map_mode"
+            android:title="Map Mode" />
+        <item
+            android:id="@+id/nav_moving_map"
+            android:title="Moving Map" />
+        <item
+            android:id="@+id/nav_place_marker"
+            android:title="Place Marker" />
+        <item
+            android:id="@+id/nav_draw_circle"
+            android:title="Draw Circle" />
+        <item
+            android:id="@+id/nav_street_view"
+            android:title="Street View" />
+    </group>
+</menu>
